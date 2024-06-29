@@ -1,0 +1,8 @@
+./server 127.0.0.1 8080
+
+./client Alice 127.0.0.1 8080
+./client Bob 127.0.0.1 8080
+./client Charlie 127.0.0.1 8080
+
+2ALL Hello everyone!
+2ONE Charlie Hi Charlie, how are you?
